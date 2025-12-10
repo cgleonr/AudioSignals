@@ -1,0 +1,16 @@
+1. Download and open Praat. Record yourself saying these words naturally: heed, hid, hayed, head, had, hud, hard, hawed, hood, who’d (one word per recording, can use google to help with pronunciation if unknown). 
+2. In Praat, measure the first two formant frequencies (F1 and F2) for each vowel. Create a vowel plot with F1 on the vertical axis and F2 on the horizontal axis to visualize your own vowel space. Bonus: what does F3 tell us about a vowel?
+3. Explore the audio file you recorded in the time and frequency domain. Look out for features that could be specific to your recording. 
+4. Prepare drawings explaining the features according to 3. Describe what makes your recording unique.
+5. Think of an algorithm to identify your recording basing on some features described. Implement your algorithm roughly in Python and validate its selectivity with respect to the features chosen. 
+6. Post all results (vowel analysis, graph, drawings, code, test results) to the mailbox on Ilias.
+
+
+
+Progress
+1. [ ]
+2. [ ]
+3. [ ]
+4. [ ]
+5. [ ]
+6. [ ]

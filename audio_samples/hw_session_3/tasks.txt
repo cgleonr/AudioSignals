@@ -1,0 +1,14 @@
+1. Think of a possible application for audio analysis/synthesis from your personal environment (private or business). Describe the task to be solved and possible solutions. 
+2. Make yourself familiar with the code for the HMM (’pra_sw03-code-snippet.py’). Choose one model and explain the trained values of A, B and π with help of a state chart. Run a decoder for different observations and analyse the outcome. 
+3. Define a HMM λ =(A,B,π) for an additional symbol, e.g. '!' by hand, i.e. without training. Tipp: draw a state chart first. Adapt the code and test it. Explain your solution in a concise way. 
+4. How could a predefined start and stop state be enforced? Adapt the code therefore.
+5. Investigate the effects of the parameters, as number of states, number of iterations for training, …. How do these influence the performance of the detection system?
+6. Post all results on Ilias
+
+Progress
+1. [ ]
+2. [ ]
+3. [ ]
+4. [ ]
+5. [ ]
+6. [ ]

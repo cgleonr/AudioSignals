@@ -1,0 +1,15 @@
+1. Listen to the audio file (sample_13.mp3) and draw a picture on A4 paper of the *situation* anticipated
+2. Describe the acoustic peculiarities of the recording in 5-10 concise sentences
+3. Find an acoustically interesting situation and make an audio recording of it. 30s
+4. Choose an instrument and analyze sound waves (with audacity for example). Describe peculiarities in 5-10 sentences
+5. Create a sound generator in Python synthesizing the sound of chosen instrument
+
+6. Post all results on Ilias
+
+Progress
+1. [X]
+2. [X]
+3. [ ]
+4. [X]
+5. [X]
+6. [ ]

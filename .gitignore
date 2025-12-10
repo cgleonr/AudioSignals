@@ -1,0 +1,2 @@
+# ignore all mp3 files in case they are copyrighted
+../*/*.mp3

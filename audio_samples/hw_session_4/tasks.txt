@@ -1,0 +1,15 @@
+1. How can the input sequence be represented at the input nodes? How to encode the symbols, i.e. dot, dash and void? Describe a possible solution. 
+2. Implement a simple network with one intermediate layer of a few neurons in ‘plain’ Python. The output can be represented by a ‘one hot encoding’. 
+3. Work out the details of the back-propagtion of the error according to the activation function choosen. Implement the adaption by back-propagation in Python. How can the error be determined? 
+4. Implement a training & testing environment for the characters choosen und train the network. 
+5. Summarize your experiences, findings and insights in short essay. 
+
+6. Post everything to the mailbox on Ilias.
+
+Progress
+1. [ ]
+2. [ ]
+3. [ ]
+4. [ ]
+5. [ ]
+6. [ ]
